@@ -47,4 +47,4 @@ def get_user_stats(username):
     return jsonify(stats)
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=False,host='0.0.0.0')
