@@ -2,9 +2,9 @@
     "name": "c2p",
     "version": "1.0.0",
     "description": "",
-    "main": "server.js",
+    "main": "gfg-api.py",
     "scripts": {
-        "dev": "nodemon backend/server.js"
+        "dev": "node gfg-api.py"
     },
     "author": "",
     "license": "ISC",
